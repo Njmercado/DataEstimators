@@ -1,0 +1,6 @@
+* Primer commit:
+  * Creación de los archivos Regression y Perceptron.
+  * El archivo Regression cuenta con la clase LinearRegression para estimar linealmente un conjunto de datos.
+  * El archivo Perceptron no cuenta con nada --> hay que hacer esta clase
+  * Creación de test.py el cual me permite realizar pruebas.
+  * El archivo packages tiene todas las librerias necesarias para usar en el este proyecto.
